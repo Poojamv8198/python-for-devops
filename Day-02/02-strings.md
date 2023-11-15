@@ -6,7 +6,7 @@
 - Strings are immutable, meaning you cannot change the characters within a string directly. Instead, you create new strings.
 - You can access individual characters in a string using indexing,-ordered dypes e.g., `my_string[0]` will give you the first character.
 - Strings support various built-in methods, such as `len()`, `upper()`, `lower()`, `strip()`, `replace()`, and more, for manipulation.
-
+ [ pre-defined functions that come bundled with Python and can be used directly in a Python program without importing external libraries]
 **2. String Manipulation and Formatting:**
 
 - Concatenation: You can combine strings using the `+` operator.
