@@ -18,7 +18,7 @@ Here are some important Python keywords:
 
 7. **while**: It is used to create a loop that repeatedly executes a block of code as long as a specified condition is true.
 
-8. **for**: It is used to create a loop that iterates over a sequence (such as a list, tuple, or string) and executes a block of code for each item in the sequence.
+8. **for**: It is used to create a loop that iterates(repetative actons) over a sequence (such as a list, tuple, or string) and executes a block of code for each item in the sequence.
 
 9. **in**: Used with `for`, it checks if a value is present in a sequence.
 
