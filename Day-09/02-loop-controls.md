@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Loop control statements are used to modify the behavior of loops, providing greater control and flexibility during iteration. In Python, two primary loop control statements are "break" and "continue."
+Loop control statements are used to modify the behavior of loops, providing greater control and flexibility during iteration(repetative actions). In Python, two primary loop control statements are "break" and "continue."
 
 ## `break` Statement
 
